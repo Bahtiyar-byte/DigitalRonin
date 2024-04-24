@@ -638,6 +638,47 @@ strong {
   padding: 40px;
 }
 
+.accordion-item {
+  border: none;
+  padding-bottom: 15px;
+  }
+  .accordion-header {
+  font-style:  ;
+  color: #67008f;
+  text-decoration: underline;
+  cursor: pointer;
+  }
+  .accordion-content {
+  display: none;
+  }
+
+
+/*
+.accordion {
+  border: 0px solid #ffffff;
+  border-radius: 0px;
+}
+
+.accordion-item {
+  border-bottom: 0px solid #f5e2fd;
+}
+
+.accordion-item:last-child {
+  border-bottom: none;
+}
+
+.accordion-header {
+  padding: 10px;
+  cursor: pointer;
+  margin: 0;
+  background-color: #f5e2fd;
+}
+
+.accordion-content {
+  padding: 10px;
+  display: none;
+}
+*/
 
 /*---------------------------------------
   SERVICES              
